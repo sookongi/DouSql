@@ -1,4 +1,4 @@
-# XiaSQLBug V3.0 - Burp Suite SQL注入检测插件
+# DouSql V3.0 - Burp Suite SQL注入检测插件
 
 ## 插件简介
 
